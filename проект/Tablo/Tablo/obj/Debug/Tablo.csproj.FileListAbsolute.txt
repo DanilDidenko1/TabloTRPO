@@ -1,0 +1,12 @@
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\bin\Debug\Tablo.exe.config
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\bin\Debug\Tablo.exe
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\bin\Debug\Tablo.pdb
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\obj\Debug\Tablo.ПУ.resources
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\obj\Debug\Tablo.Properties.Resources.resources
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\obj\Debug\Tablo.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\obj\Debug\Tablo.exe
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\obj\Debug\Tablo.pdb
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\obj\Debug\Tablo.Tablo1.resources
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\obj\Debug\Tablo.Getraspisane.resources
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\obj\Debug\Tablo.csprojAssemblyReference.cache
+C:\Users\Данил\Desktop\универ\2.1 семестр\ТРПО\Проект\Tablo\Tablo\obj\Debug\Tablo.changeraspis.resources
